@@ -12,13 +12,16 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 - **Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
 
-   ![Alerta de validación](./assets/readme/image-copy.png)
+   <img width="695" height="732" alt="image-copy" src="https://github.com/user-attachments/assets/89d607fb-2204-4a86-aa88-e2df7ca04ad2" />
+
 
 - **Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
 
-   ![Lista de nombres](./assets/readme/image-nombres.png)
+   <img width="681" height="688" alt="image-nombres" src="https://github.com/user-attachments/assets/26a834c5-1cb8-4815-a643-43015c39ec4f" />
+
 
 - **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
 
-   ![Resultado sorteo](./assets/readme/image-sorteo.png)
+   <img width="591" height="570" alt="image-sorteo" src="https://github.com/user-attachments/assets/2c42b0cd-6ed3-444e-b643-904211645caf" />
+
 
