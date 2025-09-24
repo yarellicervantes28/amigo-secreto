@@ -7,7 +7,8 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 - **Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
 
-   ![Agregar nombre](./assets/README.md/image.png).
+   <img width="742" height="642" alt="image" src="https://github.com/user-attachments/assets/a8207575-c60a-4bee-924c-39adff9adfd3" />
+
 
 - **Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
 
